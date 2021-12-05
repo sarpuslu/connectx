@@ -1,7 +1,8 @@
 # ConnectX
-ConnectX is an advanced corporate directory created mainly for ION Group, a global financial technology company with more than six thousand employees worldwide.
 
 https://connect-x.io/
+
+ConnectX is an advanced corporate directory created mainly for ION Group, a global financial technology company with more than six thousand employees worldwide.
 
 ConnectX is more than a typical corporate directory. It is composed of three parts: 
 
